@@ -1,0 +1,11 @@
+Recomendação: 
+
+Baseado nos detalhes fornecidos, recomenda-se a seguinte ação:
+
+Ação: "Notificar Cliente" e "Acionar setor Anti-Fraude"
+
+Razão: A transação foi rotulada como uma possível fraude devido ao horário incomum da transação e ao valor excepcionalmente alto para um item de esporte, que vai além do padrão esperado para essa categoria de produto. Adicionalmente, a natureza da transação requer atenção imediata para evitar potenciais estragos financeiros ao cliente. 
+
+Além disso, é importante notificar o cliente sobre a transação suspeita para confirmar se eles reconhecem ou não a atividade. Em paralelo, o setor anti-fraude deve ser acionado para investigar o caso, analisando dados adicionais disponíveis e realizando quaisquer outras ações necessárias para avaliar a transação.
+
+Tipo de fraude suspeita: Fraude de cartão de crédito (possível clonagem ou uso indevido de cartão furtado).
